@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35826'
     url: http://www.gutenberg.org/2009/agents/35826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32399#Reminiscences--The-Story-of-an-Emigrant
 gutenberg_issued: '2010-05-17'
 gutenberg_type: Text
 identifiers:
