@@ -1,0 +1,29 @@
+_repo: Reminiscences--The-Story-of-an-Emigrant_32399
+_version: 0.1.0
+alternative_title: Minnen. English
+covers:
+- cover_type: archival
+  image_path: 32399-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mattson, Hans
+    birthdate: 1832
+    deathdate: 1893
+    gutenberg_agent_id: '35826'
+    url: http://www.gutenberg.org/2009/agents/35826
+description: ''
+gutenberg_issued: '2010-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish Americans -- Biography'
+- !lcsh 'Mattson, Hans, 1832-1893'
+- !lcc 'E151'
+- !lcsh 'India -- Description and travel'
+title: 'Reminiscences: The Story of an Emigrant'
+url: http://www.gutenberg.org/ebooks/32399
